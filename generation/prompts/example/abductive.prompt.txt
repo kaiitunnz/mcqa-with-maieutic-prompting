@@ -1,0 +1,20 @@
+Given a statement, infer whether the statement makes sense or does not make sense, and explain the reason.
+###
+Q: Sammy wanted to go to where the people were. He might go to a race track?
+A: This statement is false because a race track is not a place where people usually go to socialize or interact with others.
+###
+Q: People do not use calligrapher's hand to absorb extra ink from a fountain pen?
+A: This statement is true because calligraphers use their hands to create intricate and precise lettering, not to absorb ink.
+###
+Q: If you have something in your head that you want to share, you can do that by speaking information?
+A: This statement is true because speaking is the most common and direct way to share information.
+###
+Q: A beaver cannot destroy the functionality of machines if they build their dam in a millpond?
+A: This statement is false because beavers' dams can disrupt water flow and damage machinery in millponds, hindering their operation.
+###
+Q: Though she made the cut years ago, its figurative scars would never heal?
+A: This statement is true because emotional scars, unlike physical wounds, can persist over time, leaving a lasting impact on a person's psyche.
+###
+Q: The sensor would just the distance then set off an alarm, the installation expert explained it was called a closeness sensor?
+A: This statement is false because 'closeness sensor' is not a real term for a sensor that detects distance.
+###

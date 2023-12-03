@@ -1,0 +1,26 @@
+Given a pair of question and incorrect answer, create a statement regardless of whether it is true or false.
+###
+Q: A scientist put several different plants in a sealed container. Every hour, she checked the oxygen in the container to see if it changed. How did the oxygen in the container most likely change?
+A: The amount of oxygen increased.
+Statement: A scientist put several different plants in a sealed container. Every hour, she checked the oxygen in the container to see if it changed. The amount of oxygen in the container did not most likely increase.
+###
+Q: Roger poured water over a pile of sand. Some of the sand washed away. This process is similar to which of the following?
+A: The erosion of the walls of a canyon
+Statement: Roger poured water over a pile of sand. Some of the sand washed away. This process is not similar to the erosion of the walls of a canyon.
+###
+Q: When water evaporates from Earth's surface into the atmosphere, its molecules enter the gas state. What change in this gas causes molecules to condense into the small water droplets that form clouds?
+A: The temperature is reduced.
+Statement: When water evaporates from Earth's surface into the atmosphere, its molecules enter the gas state. A change in this gas that causes molecules to condense into the small water droplets that form clouds is not that the temperature is reduced.
+###
+Q: Which statement describes a harmful effect of clearing rainforests for farmland?
+A: removes valuable habitat for local species
+Statement: Removing valuable habitat for local species is not a harmful effect of clearing rainforests for farmland.
+###
+Q: An astronomer is studying two stars that are the same distance from Earth. Star X appears brighter than star Y. Which statement best explains this observation?
+A: Star X is larger than star Y.
+Statement: An astronomer is studying two stars that are the same distance from Earth. Star X appears brighter than star Y. A best explanation for this observation is not that Star X is larger than star Y.
+###
+Q: Laura adds 50 mL of boiling water to 100 mL of ice water. If the 150 mL of water is then put into a freezer, at what temperature will the water freeze?
+A: 0°C
+Statement: Laura adds 50 mL of boiling water to 100 mL of ice water. If the 150 mL of water is then put into a freezer, the water will not freeze at 0°C.
+###

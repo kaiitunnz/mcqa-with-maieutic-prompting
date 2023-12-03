@@ -1,0 +1,20 @@
+Given a statement, correctly explain whether the statement is true or false.
+###
+Q: A scientist put several different plants in a sealed container. Every hour, she checked the oxygen in the container to see if it changed. The amount of oxygen in the container did not most likely increase?
+A: Plants produce oxygen, and a sealed container will prevent the oxygen from escaping. Therefore, the statement is false.
+###
+Q: Roger poured water over a pile of sand. Some of the sand washed away. This process is similar to the erosion of the walls of a canyon?
+A: Erosion is the process of weathering and washing away of materials, and this is what happens when Roger pours water over a pile of sand. Therefore, the statement is true.
+###
+Q: When water evaporates from Earth's surface into the atmosphere, its molecules enter the gas state. A change in this gas that causes molecules to condense into the small water droplets that form clouds is not that the temperature is reduced.
+A: When the temperature of water vapor in the atmosphere drops below the dew point, it condenses into liquid water droplets, which form clouds. Therefore, the statement is false.
+###
+Q: Removing valuable habitat for local species is a harmful effect of clearing rainforests for farmland?
+A: Clearing rainforests for farmland will destroy the habitat of many animals and plants that live in the rainforest. Therefore, the statement is true.
+###
+Q: An astronomer is studying two stars that are the same distance from Earth. Star X appears brighter than star Y. A best explanation for this observation is that Star X is larger than star Y?
+A: A star's brightness depends on its size, so if Star X appears brighter than Star Y, it is likely that Star X is larger than Star Y. Therefore, the statement is true.
+###
+Q: Laura adds 50 mL of boiling water to 100 mL of ice water. If the 150 mL of water is then put into a freezer, the water will not freeze at 0°C?
+A: 0°C is the freezing point of water, so if the water is cooled to that temperature, it will freeze. Therefore, the statement is false.
+###

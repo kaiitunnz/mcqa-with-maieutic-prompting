@@ -1,0 +1,32 @@
+Given a question and two choices, A and B, infer whether choice A is more or less correct than choice B, and explain the reason.
+###
+Q: Sammy wanted to go to where the people were. Where might he go?
+A: race track
+B: populated area
+Answer: A is less correct because a populated area is a place with lots of people, whereas a race track is a place where people go to watch races, and is not generally considered to be a place with lots of people.
+###
+Q: What do people use to absorb extra ink from a fountain pen?
+A: blotter
+B: calligrapher's hand
+Answer: A is more correct because a calligrapher's hand is not a tool that would be used to absorb extra ink from a fountain pen, whereas a blotter is a tool that is specifically designed for this purpose.
+###
+Q: I have something in my head I want to share, what ways can I do that?
+A: speak information
+B: write an essay
+Answer: A is more correct because speaking is the more natural way to convey a message that is already in your head, whereas writing an essay requires more time and effort.
+###
+Q: She loved buying products, she was driven by her what to shop more than any practical needs?
+A: money
+B: desire
+Answer: A is less correct because money is not a motivator that would cause someone to shop more than their practical needs, whereas desire is a stronger emotion that would be more likely to lead someone to shop more than their practical needs.
+###
+Q: The man was eating lunch, but rushed when he looked at his watch, why did he rush?
+A: late for work
+B: gain weight
+Answer: A is more correct because rushing is an action that is associated with being late, whereas gaining weight is an action that is not associated with being late.
+###
+Q: The forgotten leftovers had gotten quite old, he found it covered in mold in the back of his what?
+A: breadbox
+B: refrigerator
+Answer: A is less correct because mold is more likely to grow in a warm, moist environment, such as a breadbox, than in a cold, dry environment, such as a refrigerator.
+###

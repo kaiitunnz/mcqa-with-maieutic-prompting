@@ -1,0 +1,20 @@
+Given a statement, correctly explain whether the statement is true or false.
+###
+Q: Sammy wanted to go to where the people were. He might go to race track?
+A: A race track is not a place where people usually go to socialize or interact with others. Therefore, the statement is false.
+###
+Q: People do not use calligrapher's hand to absorb extra ink from a fountain pen?
+A: Calligraphers use their hands to create intricate and precise lettering, not to absorb ink. Therefore, the statement is true.
+###
+Q: If you have something in your head that you want to share, you can do that by speaking information?
+A: Speaking is the most common and direct way to share information. Therefore, the statement is true.
+###
+Q: A beaver cannot destroy the functionality of machines if they build their dam in a millpond?
+A: Beavers' dams can disrupt water flow and damage machinery in millponds, hindering their operation. Therefore, the statement is false.
+###
+Q: Though she made the cut years ago, its figurative scars would never heal?
+A: Emotional scars, unlike physical wounds, can persist over time, leaving a lasting impact on a person's psyche. Therefore, the statement is true.
+###
+Q: The sensor would just the distance then set off an alarm, the installation expert explained it was called a closeness sensor?
+A: ‘Closeness sensor' is not a real term for a sensor that detects distance. Therefore, the statement is false.
+###

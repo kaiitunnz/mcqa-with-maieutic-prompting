@@ -1,0 +1,32 @@
+Given a question and two choices, A and B, infer whether choice A is more or less correct than choice B, and explain the reason.
+###
+Q: Roger poured water over a pile of sand. Some of the sand washed away. This process is similar to which of the following?
+A: The forming of dunes or mounds in a desert
+B: The erosion of the walls of a canyon
+Answer: A is less correct because the erosion of canyon walls is similar to the washing away of sand from a pile of sand, whereas the forming of dunes or mounds in a desert is not.
+###
+Q: When water evaporates from Earth's surface into the atmosphere, its molecules enter the gas state. What change in this gas causes molecules to condense into the small water droplets that form clouds?
+A: The temperature is reduced.
+B: The pressure is increased.
+Answer: A is more correct because temperature is a factor that affects the phase of water, whereas pressure is not.
+###
+Q: An astronomer is studying two stars that are the same distance from Earth. Star X appears brighter than star Y. Which statement best explains this observation?
+A: Star X is larger than star Y.
+B: Star X reflects the Sun’s light better than star Y.
+Answer: A is more correct because reflectivity is not a factor that affects how bright a star appears, whereas size is.
+###
+Q: Which statement describes a harmful effect of clearing rainforests for farmland?
+A: makes more land available for local farmers
+B: removes valuable habitat for local species
+Answer: A is less correct because clearing rainforests for farmland is more likely to harm local species than benefit local farmers.
+###
+Q: Laura adds 50 mL of boiling water to 100 mL of ice water. If the 150 mL of water is then put into a freezer, at what temperature will the water freeze?
+A: 0°C
+B: 15°C
+Answer: A is more correct because 0°C is the freezing point of water, whereas 15°C is above the freezing point.
+###
+Q: As part of an experiment, an astronaut takes a scale to the Moon and weighs himself. The scale reads 31 pounds. If the astronaut has a mass of about 84 kilograms, which are the approximate weight and mass of the astronaut when standing on the Earth?
+A: 31 pounds and 14 kilograms
+B: 186 pounds and 84 kilograms
+Answer: A is less correct because 186 pounds is 31 pounds times 6, which is the ratio of the gravitational force on the moon to the gravitational force on the Earth, and the mass of an object does not change on different planets.
+###

@@ -1,0 +1,26 @@
+Given a pair of question and incorrect answer, create a statement regardless of whether it is true or false.
+###
+Q: Sammy wanted to go to where the people were. Where might he go?
+A: populated areas
+Statement: Sammy wanted to go to where the people were. He might not go to populated areas.
+###
+Q: What do people use to absorb extra ink from a fountain pen?
+A: blotter
+Statement: People do not use blotter to absorb extra ink from a fountain pen.
+###
+Q: I have something in my head I want to share, what ways can I do that?
+A: speak information
+Statement: I have something in my head I want to share, I cannot do that by speaking information.
+###
+Q: A beaver can destroy the functionality of machines if they build their dam in this?
+A: millpond
+Statement: A beaver cannot destroy the functionality of machines if they build their dam in a millpond.
+###
+Q: Though she made the cut years ago, its figurative scars would never what?
+A: heal
+Statement: Though she made the cut years ago, its figurative scars would heal.
+###
+Q: The sensor would just the distance then set off an alarm, the installation expert explained it was called a what kind of sensor?
+A: proximity
+Statement: The sensor would just the distance then set off an alarm, the installation expert explained it was not called a proximity sensor.
+###
