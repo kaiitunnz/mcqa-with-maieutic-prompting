@@ -1,0 +1,20 @@
+Given a statement, infer whether the statement makes sense or does not makes sense.
+###
+Q: Christopher Columbus circumnavigated the globe before anyone else?
+A: False
+###
+Q: Stoning is still a current form of capital punishment in certain areas of the world?
+A: True
+###
+Q: Your hair will grow your whole life?
+A: True
+###
+Q: A businessperson drives a fire truck to work?
+A: False
+###
+Q: If a person gets a snakebite, it needs to be treated?
+A: True
+###
+Q: Many people use rail transport in China to travel to Australia?
+A: False
+###

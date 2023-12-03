@@ -1,0 +1,20 @@
+Given a statement, infer whether the statement makes sense or does not makes sense, and explain the reason.
+###
+Q: To see stars at night, it is better to turn on the lights?
+A: False
+###
+Q: The assassination of a prince led to the first World War?
+A: True
+###
+Q: If you want a drink that wakes you up, it's better to look for one with a lot of caffeine rather than protein?
+A: True
+###
+Q: It was January in New York so Pat knew that he would see more people at the park rather than in the gym?
+A: False
+###
+Q: It is a hot day, so Fenton grabbed a big, red popsicle. If Fenton doesn't want to stain the floor, he should stand in the room with the carpeted floor?
+A: False
+###
+Q: A man who can bench press two hundred pounds can easily lift a small child?
+A: True
+###
