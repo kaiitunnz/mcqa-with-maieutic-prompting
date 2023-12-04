@@ -44,11 +44,14 @@ def configure(api_key: str):
 
 @backoff.on_exception(backoff.expo, ServiceUnavailable, max_tries=MAX_RETRY_COUNT)
 @backoff.on_exception(backoff.expo, ResourceExhausted)
-def generate_text(prompt: str):
+def generate_text(
+    prompt: str, candidate_count: int = 1, temperature: float = TEMPERATURE
+):
     return palm.generate_text(
         model=MODEL,
         prompt=prompt,
-        temperature=TEMPERATURE,
+        candidate_count=candidate_count,
+        temperature=temperature,
         top_p=1,
         max_output_tokens=64,
         safety_settings=SAFETY_SETTINGS,
