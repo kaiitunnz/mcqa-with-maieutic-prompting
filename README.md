@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 ## Generation
 
-In order to generate maieutic tree for a given set of questions, run `main_generate.py`. We provide the code and arguments to run generation for the 3 datasets - Com2Sense, CSQA 2.0, CREAK used in the paper. To simply run generation for the dev split of these datasets, run
+In order to generate maieutic tree for a given set of questions, run `main_generate.py`. We provide the code and arguments to run generation for the 3 datasets - CommonsenseQA, ARC-Easy, ARC-Challenge used in the paper. To simply run generation for the dev split of these datasets, run
 
 ```shell
 python main_generate.py --datasets=${DATASET_NAME} --api-key=${API_KEY} -g ${GEN} --layer ${LAYER}
